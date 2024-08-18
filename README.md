@@ -1,5 +1,5 @@
 # Hi
-I'm a Loser
+I'm a Nerd
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=unicornenjoyer&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true" alt="Unicornenjoyer's github stats" /></a>
