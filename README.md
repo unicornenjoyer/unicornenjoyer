@@ -1,6 +1,6 @@
 # Hi
 I'm a Nerd
-
+<!--
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=unicornenjoyer&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true" alt="Unicornenjoyer's github stats" /></a>
 <br/>
@@ -8,6 +8,9 @@ I'm a Nerd
 ### My used languages
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unicornenjoyer&theme=cobalt&size_weight=0.8&count_weight=0.2" /></a>
 <br/>
+
+-->
+
 <!--
 Here are some ideas to get you started:
 
